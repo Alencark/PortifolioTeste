@@ -1,9 +1,6 @@
 # Portfólio Pessoal
 
-Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido durante o curso da Alura em parceria com o Oracle Next Education (ONE), onde aprendi e apliquei conceitos fundamentais de **HTML** e **CSS**. O objetivo foi criar um site responsivo e moderno para apresentar minhas habilidades, projetos e experiências.
-
-🔗 **Link do projeto:** [https://alencark.github.io/PortifolioTeste/](https://alencark.github.io/PortifolioTeste/)  
-📂 **Repositório no GitHub:** [https://github.com/Alencark/PortifolioTeste.git](https://github.com/Alencark/PortifolioTeste.git)
+Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido durante o curso da Alura em parceria com o Oracle Next Education (ONE), onde aprendi e apliquei conceitos fundamentais de **HTML** e **CSS**. O objetivo foi criar um site responsivo e moderno para apresentar minhas Rede Sociais, e um texto sobre mim.
 
 ---
 
